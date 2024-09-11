@@ -6,7 +6,7 @@ using UnityEngine;
 public class S8_DestruyeObjetos2 : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI text_puntacion;
-    int cont = 0;
+    public int cont = 0;
     private void OnCollisionEnter(Collision other){
         GameObject objeto = other.gameObject;
         if(!objeto.CompareTag("NoRomper")){

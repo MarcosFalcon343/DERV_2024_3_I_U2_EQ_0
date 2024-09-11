@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Clase 09-09-2024/Inicio.unity
+    guid: ed20244594e4bcd448282d2f1d9257d5
+  - enabled: 1
+    path: Assets/Clase 09-09-2024/EjemploCorrutina2.unity
+    guid: d9e5a4c033f59504ca26793e49009700
+  - enabled: 1
+    path: Assets/Clase 09-09-2024/Fin.unity
+    guid: f7d59c4fada1cdf498004bbb35835588
+  - enabled: 1
+    path: Assets/MiniJuego1 10-09-2024/M1_Inicio.unity
+    guid: 72e3aac150bb5904b920e746b4f8f079
+  - enabled: 1
+    path: Assets/MiniJuego1 10-09-2024/M1_Principal.unity
+    guid: 66efefe74a5c79743b04ff85a3d9a78a
+  - enabled: 1
+    path: Assets/MiniJuego1 10-09-2024/M1_Fin.unity
+    guid: fc9136412bfd5b548965d79b32af5d4e
   m_configObjects: {}
